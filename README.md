@@ -1,0 +1,3 @@
+# text_based_browser
+Sometimes we need to read online documentation or find something on the Internet from the command line or terminal. so,I am using Python to create a text-based browser! Of course, making a real, full-blown browser is a very difficult task. In this project, I willl create a very simple browser that will ignore JavaScript and CSS, won't have cookies, and will only process a limited set of tags. Still, it will be useful and, most importantly, fun to program!
+I will learn how HTTP works and how to handle its protocols using Python. I will also learn all about Python input/output, as well as parsing HTML.
